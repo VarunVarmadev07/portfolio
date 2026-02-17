@@ -38,6 +38,3 @@ The webpage is fully responsive across devices:
 | Navbar | Collapses into toggle menu |
 
 ---
-
-## 📂 Project Structure
-
